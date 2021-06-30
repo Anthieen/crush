@@ -4,9 +4,6 @@ const CONFIG = {
           với cậu lâu lắm !!
     Nhớ phải trả lời thật lòng đấy
                  nha
-    
-    
-,
     btnIntro: 'OK',
     title: 'Tớ thích cậu lâu lắm rồi 😙',
     desc: 'Nếu mà không trả lời hoặc thoát ra thì cậu là ny tớ',
